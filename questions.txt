@@ -1,0 +1,2 @@
+What is Retrieval-Augmented Generation?
+What are embeddings used for?
