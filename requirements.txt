@@ -2,3 +2,4 @@ sentence-transformers
 numpy
 scikit-learn
 ollama
+faiss-cpu
