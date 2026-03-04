@@ -16,6 +16,10 @@ This project demonstrates the core architecture behind modern **AI document QA s
 
 ![Question and answer 2](demo_screenshots/qa2.png)
 
+**Question 3** (out of context question)
+
+![Question and answer 3](demo_screenshots/qa3.png)
+
 ---
 
 ## Key Features
